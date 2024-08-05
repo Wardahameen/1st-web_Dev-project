@@ -1,0 +1,27 @@
+/* .card-text{
+    padding: 69px;
+    margin: 50px;
+    color: whitesmoke;
+}
+.card-title{
+    color: whitesmoke;
+    margin : 0px;
+    padding: 0px;
+}
+.card-title{
+    color: whitesmoke;
+} */
+/* .container{
+    
+    justify-content: left;
+
+} */
+.card {
+    margin: 10px 0; /* Adds margin to the top and bottom of each card */
+  }
+  
+  .card-img-top {
+    width: 30%; /* Ensures the image takes the full width of the card */
+    height: 170; /* Keeps the image's aspect ratio */
+  }
+  
